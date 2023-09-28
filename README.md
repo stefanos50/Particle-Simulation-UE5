@@ -1,5 +1,5 @@
 Particle Simulation from scratch in Unreal Engine 5. [Full preview](https://www.youtube.com/watch?v=jv9tNBqPqfM&ab_channel=StefanosPas).
-* Movement  with Euler equation
+* Particle Motion with Euler Equation
 * Forces: Gravity , Wind , Drag , Flock , Inverse Squared Distance Force
 * Collision Detection
 * Collision Response
